@@ -1,0 +1,8 @@
+{
+  "Name": "temp.venipa.net",
+  "RequestType": "POST",
+  "RequestURL": "https://temp.venipa.net/upload.php",
+  "FileFormName": "files[]",
+  "ResponseType": "Text",
+  "URL": "$json:files[0].url$"
+}
