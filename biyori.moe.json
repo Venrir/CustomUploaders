@@ -1,0 +1,8 @@
+{
+  "Name": "biyori.moe",
+  "RequestType": "POST",
+  "RequestURL": "https://biyori.moe/upload.php",
+  "FileFormName": "files[]",
+  "ResponseType": "Text",
+  "URL": "$json:files[0].url$"
+}
