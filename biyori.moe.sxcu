@@ -1,0 +1,9 @@
+{
+"Name": "biyori.moe",
+"RequestType": "POST",
+"RequestURL": "https://biyori.moe/api/user/upload",
+"FileFormName": "files[]",
+"ResponseType": "Text",
+"URL": "$json:['url']$",
+"DeletionURL": "$json:['deletekey']$"
+}
